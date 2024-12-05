@@ -25,7 +25,7 @@ function Navbar() {
 <<<<<<< HEAD
 									aria-current="page" to={`/`}>
 =======
-									
+								
 									to="/">
 >>>>>>> c781b4b (final)
 									Home
